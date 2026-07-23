@@ -1,0 +1,9 @@
+# Local design and rendering workspace
+build/
+preview/
+screenshots/
+variants/
+
+# Keep only the production profile artwork in the public repository.
+assets/*
+!assets/profile-hero-v2.jpg
