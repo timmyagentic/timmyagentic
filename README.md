@@ -47,9 +47,15 @@ Today I ship developer tools around **AI coding agents** and explore **AI-native
 | **[Codex Connect](https://github.com/timmyagentic/codex-connect)** | The Codex-focused doorway into cc-connect-next. |
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/b4c02c/timmyagentic" width="92%" alt="Contribution graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timmyagentic/timmyagentic/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/timmyagentic/timmyagentic/output/snake-light.svg" width="92%" alt="Contribution snake">
+  </picture>
   <br><br>
-  <img height="165" src="https://streak-stats.demolab.com?user=timmyagentic&hide_border=true&background=00000000&ring=b4c02c&fire=b4c02c&currStreakLabel=b4c02c&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=6a737d" alt="Contribution streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=timmyagentic&hide_border=true&background=00000000&ring=b4c02c&fire=b4c02c&currStreakLabel=b4c02c&sideLabels=8b949e&currStreakNum=adbac7&sideNums=adbac7&dates=6a737d">
+    <img height="165" src="https://streak-stats.demolab.com?user=timmyagentic&hide_border=true&background=00000000&ring=8a9421&fire=8a9421&currStreakLabel=8a9421&sideLabels=57606a&currStreakNum=24292f&sideNums=24292f&dates=6a737d" alt="Contribution streak">
+  </picture>
 </div>
 
 <p align="center"><sub>Ask me about AI Coding · Harness Engineering · LLM Applications · Go · Swift</sub></p>
