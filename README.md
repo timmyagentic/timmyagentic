@@ -5,7 +5,8 @@
   <p><samp>Built with AI. Shaped by everyday use.</samp></p>
   <p>Currently at <strong><a href="https://converge.ai/">Converge AI</a></strong>, working on <strong><a href="https://combos.converge.ai/">Combos</a></strong>.</p>
   <p><samp>
-    <a href="https://quota-monitor.timmyagentic.com">Quota Monitor</a> ·
+    <a href="https://timmyagentic.si">Website</a> ·
+    <a href="https://quota-monitor.timmyagentic.si">Quota Monitor</a> ·
     <a href="https://github.com/timmyagentic/cc-connect-next">cc-connect-next</a> ·
     <a href="https://github.com/timmyagentic?tab=repositories">Projects</a> ·
     <a href="mailto:tzhou125@connect.hkust-gz.edu.cn">Email</a>
@@ -17,11 +18,11 @@
 I turn problems I run into every day into tools I can use. Codex and Claude Code help me build; I take the work from finding the problem through testing, shipping, and maintenance.
 
 - [**Quota Monitor**](https://github.com/timmyagentic/quota-monitor) — Codex and Claude Code quotas, reset times, and usage trends in your Mac menu bar. Built with SwiftUI.<br>
-  [Website](https://quota-monitor.timmyagentic.com) · [Download](https://quota-monitor.timmyagentic.com/download)
+  [Website](https://quota-monitor.timmyagentic.si) · [Download](https://quota-monitor.timmyagentic.si/download)
 - [**cc-connect-next**](https://github.com/timmyagentic/cc-connect-next) — Drive local coding agents from chat, with Feishu/Lark streaming cards and mid-turn steering on supported backends. An independent successor to CC Connect.<br>
-  [Install](https://github.com/timmyagentic/cc-connect-next/blob/main/INSTALL.md) · [Feishu setup](https://github.com/timmyagentic/cc-connect-next/blob/main/docs/feishu.md)
+  [Website](https://cc-connect-next.timmyagentic.si) · [Install](https://github.com/timmyagentic/cc-connect-next/blob/main/INSTALL.md) · [Feishu setup](https://github.com/timmyagentic/cc-connect-next/blob/main/docs/feishu.md)
 - [**Emomo**](https://github.com/timmyagentic/emomo) — Meme search for AI agents, with a CLI and reusable skills.<br>
-  [Website](https://timmyagentic.si) · [Repository](https://github.com/timmyagentic/emomo)
+  [Website](https://emomo.timmyagentic.si) · [Repository](https://github.com/timmyagentic/emomo)
 
 ## Earlier work
 
