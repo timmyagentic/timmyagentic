@@ -20,6 +20,8 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
   [Website](https://quota-monitor.timmyagentic.com) · [Download](https://quota-monitor.timmyagentic.com/download)
 - [**cc-connect-next**](https://github.com/timmyagentic/cc-connect-next) — Drive local coding agents from chat, with Feishu/Lark streaming cards and mid-turn steering on supported backends. An independent successor to CC Connect.<br>
   [Install](https://github.com/timmyagentic/cc-connect-next/blob/main/INSTALL.md) · [Feishu setup](https://github.com/timmyagentic/cc-connect-next/blob/main/docs/feishu.md)
+- [**Emomo**](https://github.com/timmyagentic/emomo) — Meme search for AI agents, with a CLI and reusable skills.<br>
+  [Website](https://timmyagentic.si) · [Repository](https://github.com/timmyagentic/emomo)
 
 ## Earlier work
 
