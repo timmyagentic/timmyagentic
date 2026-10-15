@@ -21,10 +21,6 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
 - [**cc-connect-next**](https://github.com/timmyagentic/cc-connect-next) — Drive local coding agents from chat, with Feishu/Lark streaming cards and mid-turn steering on supported backends. An independent successor to CC Connect.<br>
   [Install](https://github.com/timmyagentic/cc-connect-next/blob/main/INSTALL.md) · [Feishu setup](https://github.com/timmyagentic/cc-connect-next/blob/main/docs/feishu.md)
 
-## How I build
-
-I care about the steps after code generation: a working install, verifiable results, useful feedback, and reliable updates. These repositories document the tools I ship, the problems I encounter, and the fixes that follow.
-
 ## Earlier work
 
 - [**MMF27 Dock Swipe Fix**](https://github.com/timmyagentic/mac-mouse-fix-macos-27-fix) — A legacy workaround for Mac Mouse Fix gestures on macOS 27. The original compatibility issue was fixed in official Mac Mouse Fix 3.1.0; use the official stable release. This repository preserves the earlier repair.
@@ -36,7 +32,7 @@ I care about the steps after code generation: a working install, verifiable resu
 
 Have feedback? Open an issue in the relevant project, or reach me by [email](mailto:tzhou125@connect.hkust-gz.edu.cn). English and Chinese welcome.
 
-<p align="center"><samp><sub>CS student @ HKUST(GZ) · prev. DJI / Tencent · Shenzhen</sub></samp></p>
+<p align="center"><samp><sub>prev. DJI / Tencent · Shenzhen</sub></samp></p>
 
 <div align="center">
   <picture>
