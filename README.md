@@ -3,6 +3,7 @@
   <br><br>
   <p><strong>Practical tools for AI coding and macOS.</strong></p>
   <p><samp>Built with AI. Shaped by everyday use.</samp></p>
+  <p>Currently at <strong><a href="https://converge.ai/">Converge AI</a></strong>, working on <strong><a href="https://combos.converge.ai/">Combos</a></strong>.</p>
   <p><samp>
     <a href="https://quota-monitor.timmyagentic.com">Quota Monitor</a> ·
     <a href="https://github.com/timmyagentic/cc-connect-next">cc-connect-next</a> ·
@@ -24,13 +25,12 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
 
 I care about the steps after code generation: a working install, verifiable results, useful feedback, and reliable updates. These repositories document the tools I ship, the problems I encounter, and the fixes that follow.
 
-- [**AI Coding Prompt**](https://github.com/timmyagentic/ai-coding-prompt) — An earlier collection of prompts for architecture diagrams, sequence diagrams, and product documentation. A record of experiments.
-
 ## Earlier work
 
 - [**MMF27 Dock Swipe Fix**](https://github.com/timmyagentic/mac-mouse-fix-macos-27-fix) — A legacy workaround for Mac Mouse Fix gestures on macOS 27. The original compatibility issue was fixed in official Mac Mouse Fix 3.1.0; use the official stable release. This repository preserves the earlier repair.
-- [**Emomo**](https://github.com/timmyagentic/emomo) — A semantic meme-search experiment. This public repository is archived.
+- [**AI Coding Prompt**](https://github.com/timmyagentic/ai-coding-prompt) — An earlier collection of prompts for architecture diagrams, sequence diagrams, and product documentation. A record of experiments.
 - [**CodexSpeed**](https://github.com/timmyagentic/codexspeed) — An archived experiment in measuring local model output speed.
+- [**Typeless++**](https://github.com/timmyagentic/typeless-plusplus) — A native macOS companion for Typeless. No longer maintained because I no longer use Typeless.
 
 ---
 
