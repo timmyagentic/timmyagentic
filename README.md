@@ -23,6 +23,8 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
   [Website](https://cc-connect-next.timmyagentic.si) · [Install](https://github.com/timmyagentic/cc-connect-next/blob/main/INSTALL.md) · [Feishu setup](https://github.com/timmyagentic/cc-connect-next/blob/main/docs/feishu.md)
 - [**Emomo**](https://github.com/timmyagentic/emomo) — Meme search for AI agents, with a CLI and reusable skills.<br>
   [Website](https://emomo.timmyagentic.si) · [Repository](https://github.com/timmyagentic/emomo)
+- [**SMB Share**](https://github.com/timmyagentic/smb-share) — A lightweight Android share target that sends files directly to a Mac or SMB2/3 share over your local network, with no desktop companion or cloud relay.<br>
+  [Website](https://smb.timmyagentic.si) · [Download](https://github.com/timmyagentic/smb-share/releases/latest)
 - [**AgenticFan**](https://github.com/timmyagentic/agentic-fan) — Native macOS temperature monitoring and time-limited fan control for Apple silicon, with a menu bar app and a JSON CLI for agents.<br>
   [Website](https://agenticfan.timmyagentic.si) · [Install](https://github.com/timmyagentic/agentic-fan/blob/codex/apple-silicon-dmg/INSTALL.md)
 - [**Route Monitor**](https://github.com/timmyagentic/route-monitor) — Local routing diagnostics for Mihomo and ShellCrash, with connection history, checks across direct and proxy paths, and opt-in routing corrections backed by evidence.<br>
