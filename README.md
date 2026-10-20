@@ -52,8 +52,6 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
 
 Have feedback? Open an issue in the relevant project, or reach me by [email](mailto:tzhou125@connect.hkust-gz.edu.cn). English and Chinese welcome.
 
-<p align="center"><samp><sub>prev. DJI / Tencent · Shenzhen</sub></samp></p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timmyagentic/timmyagentic/output/snake-dark.svg">
