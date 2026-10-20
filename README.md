@@ -23,6 +23,9 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
   [Website](https://cc-connect-next.timmyagentic.si) · [Install](https://github.com/timmyagentic/cc-connect-next/blob/main/INSTALL.md) · [Feishu setup](https://github.com/timmyagentic/cc-connect-next/blob/main/docs/feishu.md)
 - [**Emomo**](https://github.com/timmyagentic/emomo) — Meme search for AI agents, with a CLI and reusable skills.<br>
   [Website](https://emomo.timmyagentic.si) · [Repository](https://github.com/timmyagentic/emomo)
+- [**AgenticFan**](https://github.com/timmyagentic/agentic-fan) — Native macOS temperature monitoring and time-limited fan control for Apple silicon, with a menu bar app and a JSON CLI for agents.
+- [**Route Monitor**](https://github.com/timmyagentic/route-monitor) — Local routing diagnostics for Mihomo and ShellCrash, with connection history, checks across direct and proxy paths, and opt-in routing corrections backed by evidence.
+- [**Clash Verge Traffic Ledger**](https://github.com/timmyagentic/clash-verge-traffic-ledger) — Local traffic accounting for Clash Verge and Mihomo, with per-app usage, SQLite history, and read-only audits for agents.
 
 ## Earlier work
 
