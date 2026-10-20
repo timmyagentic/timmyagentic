@@ -46,10 +46,7 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
 
 ## Earlier work
 
-- [**MMF27 Dock Swipe Fix**](https://github.com/timmyagentic/mac-mouse-fix-macos-27-fix) — Archived.
-- [**AI Coding Prompt**](https://github.com/timmyagentic/ai-coding-prompt) — Archived.
-- [**CodexSpeed**](https://github.com/timmyagentic/codexspeed) — Archived.
-- [**Typeless++**](https://github.com/timmyagentic/typeless-plusplus) — No longer maintained.
+[**MMF27 Dock Swipe Fix**](https://github.com/timmyagentic/mac-mouse-fix-macos-27-fix) · [**AI Coding Prompt**](https://github.com/timmyagentic/ai-coding-prompt) · [**CodexSpeed**](https://github.com/timmyagentic/codexspeed) · [**Typeless++**](https://github.com/timmyagentic/typeless-plusplus)
 
 ---
 
