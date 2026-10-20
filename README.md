@@ -17,16 +17,28 @@
 
 I turn problems I run into every day into tools I can use. Codex and Claude Code help me build; I take the work from finding the problem through testing, shipping, and maintenance.
 
+### AI & Agents
+
 - [**Quota Monitor**](https://github.com/timmyagentic/quota-monitor) — Codex and Claude Code quotas, reset times, and usage trends in your Mac menu bar. Built with SwiftUI.<br>
   [Website](https://quota-monitor.timmyagentic.si) · [Download](https://quota-monitor.timmyagentic.si/download)
 - [**cc-connect-next**](https://github.com/timmyagentic/cc-connect-next) — Drive local coding agents from chat, with Feishu/Lark streaming cards and mid-turn steering on supported backends. An independent successor to CC Connect.<br>
   [Website](https://cc-connect-next.timmyagentic.si) · [Install](https://github.com/timmyagentic/cc-connect-next/blob/main/INSTALL.md) · [Feishu setup](https://github.com/timmyagentic/cc-connect-next/blob/main/docs/feishu.md)
 - [**Emomo**](https://github.com/timmyagentic/emomo) — Meme search for AI agents, with a CLI and reusable skills.<br>
   [Website](https://emomo.timmyagentic.si) · [Repository](https://github.com/timmyagentic/emomo)
-- [**SMB Share**](https://github.com/timmyagentic/smb-share) — A lightweight Android share target that sends files directly to a Mac or SMB2/3 share over your local network, with no desktop companion or cloud relay.<br>
-  [Website](https://smb.timmyagentic.si) · [Download](https://github.com/timmyagentic/smb-share/releases/latest)
+- [**Awesome Agent App Features**](https://github.com/timmyagentic/awesome-agent-app-features) — Reusable feedback and safe update components for agent-powered apps, designed for coding agents to integrate into existing projects.<br>
+  [Integration guide](https://github.com/timmyagentic/awesome-agent-app-features/blob/main/docs/agent-integration.md) · [Releases](https://github.com/timmyagentic/awesome-agent-app-features/releases)
+
+### Devices & Productivity
+
 - [**AgenticFan**](https://github.com/timmyagentic/agentic-fan) — Native macOS temperature monitoring and time-limited fan control for Apple silicon, with a menu bar app and a JSON CLI for agents.<br>
   [Website](https://agenticfan.timmyagentic.si) · [Install](https://github.com/timmyagentic/agentic-fan/blob/codex/apple-silicon-dmg/INSTALL.md)
+- [**SMB Share**](https://github.com/timmyagentic/smb-share) — A lightweight Android share target that sends files directly to a Mac or SMB2/3 share over your local network, with no desktop companion or cloud relay.<br>
+  [Website](https://smb.timmyagentic.si) · [Download](https://github.com/timmyagentic/smb-share/releases/latest)
+- [**MMF Gesture Fix**](https://github.com/timmyagentic/mmf-gesture-fix) — A macOS 27 companion for supported Mac Mouse Fix versions that preserves continuous gestures and corrects conflicting horizontal release velocity.<br>
+  [Compatibility](https://github.com/timmyagentic/mmf-gesture-fix#compatibility) · [Download](https://github.com/timmyagentic/mmf-gesture-fix/releases/latest)
+
+### Networking
+
 - [**Route Monitor**](https://github.com/timmyagentic/route-monitor) — Local routing diagnostics for Mihomo and ShellCrash, with connection history, checks across direct and proxy paths, and opt-in routing corrections backed by evidence.<br>
   [Website](https://route-monitor.timmyagentic.si) · [Download](https://github.com/timmyagentic/route-monitor/releases/latest)
 - [**Clash Verge Traffic Ledger**](https://github.com/timmyagentic/clash-verge-traffic-ledger) — Local traffic accounting for Clash Verge and Mihomo, with per-app usage, SQLite history, and read-only audits for agents.<br>
@@ -34,10 +46,10 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
 
 ## Earlier work
 
-- [**MMF27 Dock Swipe Fix**](https://github.com/timmyagentic/mac-mouse-fix-macos-27-fix) — A legacy workaround for Mac Mouse Fix gestures on macOS 27. The original compatibility issue was fixed in official Mac Mouse Fix 3.1.0; use the official stable release. This repository preserves the earlier repair.
-- [**AI Coding Prompt**](https://github.com/timmyagentic/ai-coding-prompt) — An earlier collection of prompts for architecture diagrams, sequence diagrams, and product documentation. A record of experiments.
-- [**CodexSpeed**](https://github.com/timmyagentic/codexspeed) — An archived experiment in measuring local model output speed.
-- [**Typeless++**](https://github.com/timmyagentic/typeless-plusplus) — A native macOS companion for Typeless. No longer maintained because I no longer use Typeless.
+- [**MMF27 Dock Swipe Fix**](https://github.com/timmyagentic/mac-mouse-fix-macos-27-fix) — Archived.
+- [**AI Coding Prompt**](https://github.com/timmyagentic/ai-coding-prompt) — Archived.
+- [**CodexSpeed**](https://github.com/timmyagentic/codexspeed) — Archived.
+- [**Typeless++**](https://github.com/timmyagentic/typeless-plusplus) — No longer maintained.
 
 ---
 
