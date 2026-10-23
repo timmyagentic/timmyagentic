@@ -42,7 +42,7 @@ I turn problems I run into every day into tools I can use. Codex and Claude Code
 - [**Route Monitor**](https://github.com/timmyagentic/route-monitor) — Local routing diagnostics for Mihomo and ShellCrash, with connection history, checks across direct and proxy paths, and opt-in routing corrections backed by evidence.<br>
   [Website](https://route-monitor.timmyagentic.si) · [Download](https://github.com/timmyagentic/route-monitor/releases/latest)
 - [**Clash Verge Monitor**](https://github.com/timmyagentic/clash-verge-monitor) — Local traffic accounting for Clash Verge and Mihomo, with per-app usage, SQLite history, and read-only audits for agents.<br>
-  [Website](https://traffic-ledger.timmyagentic.si) · [Releases](https://github.com/timmyagentic/clash-verge-monitor/releases)
+  [Website](https://clash-verge-monitor.timmyagentic.si) · [Releases](https://github.com/timmyagentic/clash-verge-monitor/releases)
 
 ## Earlier work
 
